@@ -1,5 +1,5 @@
 ﻿
-namespace ConsoleApp2
+namespace Advent1
 {
 
     class Solution
@@ -34,7 +34,7 @@ namespace ConsoleApp2
                 else
                     curElf += int.Parse(str);
             }
-            if(cmd == "MAX")
+            if (cmd == "MAX")
                 return elfsCalories.Max().ToString();
             if (cmd == "TOP3")
             {
