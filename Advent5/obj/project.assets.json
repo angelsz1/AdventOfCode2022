@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Advent2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Advent2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Advent2.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Advent2/1.0.0": {
+      "type": "project",
+      "path": "../Advent2/Advent2.csproj",
+      "msbuildProject": "../Advent2/Advent2.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Advent2 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\angel\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\Advent2.csproj": {
+              "projectPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\Advent2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
