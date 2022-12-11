@@ -1,0 +1,15 @@
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\bin\Debug\net7.0\Advent11.exe
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\bin\Debug\net7.0\Advent11.deps.json
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\bin\Debug\net7.0\Advent11.runtimeconfig.json
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\bin\Debug\net7.0\Advent11.dll
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\bin\Debug\net7.0\Advent11.pdb
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\Advent11.csproj.AssemblyReference.cache
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\Advent11.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\Advent11.AssemblyInfoInputs.cache
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\Advent11.AssemblyInfo.cs
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\Advent11.csproj.CoreCompileInputs.cache
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\Advent11.dll
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\refint\Advent11.dll
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\Advent11.pdb
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\Advent11.genruntimeconfig.cache
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\Advent11\obj\Debug\net7.0\ref\Advent11.dll

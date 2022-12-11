@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "Advent2/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Advent2.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Advent2.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "Advent2/1.0.0": {
-      "type": "project",
-      "path": "../Advent2/Advent2.csproj",
-      "msbuildProject": "../Advent2/Advent2.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "Advent2 >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\angel\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent5\\Advent5.csproj",
-      "projectName": "Advent5",
-      "projectPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent5\\Advent5.csproj",
+      "projectUniqueName": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent11\\Advent11.csproj",
+      "projectName": "Advent11",
+      "projectPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent11\\Advent11.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent5\\obj\\",
+      "outputPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\Advent2.csproj": {
-              "projectPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\Advent2.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
