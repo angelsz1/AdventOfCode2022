@@ -1,0 +1,15 @@
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\bin\Debug\net7.0\advent2022first.exe
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\bin\Debug\net7.0\advent2022first.deps.json
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\bin\Debug\net7.0\advent2022first.runtimeconfig.json
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\bin\Debug\net7.0\advent2022first.dll
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\bin\Debug\net7.0\advent2022first.pdb
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\advent2022first.csproj.AssemblyReference.cache
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\advent2022first.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\advent2022first.AssemblyInfoInputs.cache
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\advent2022first.AssemblyInfo.cs
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\advent2022first.csproj.CoreCompileInputs.cache
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\advent2022first.dll
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\refint\advent2022first.dll
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\advent2022first.pdb
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\advent2022first.genruntimeconfig.cache
+D:\coding stuff\c#\primerProyectoCS\primerProyectoCS\advent2022first\obj\Debug\net7.0\ref\advent2022first.dll
