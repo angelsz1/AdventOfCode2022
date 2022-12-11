@@ -28,6 +28,7 @@
                 if (!repe)
                     return i + 14;
                 charSoFar.Clear();
+                
 
             }
 

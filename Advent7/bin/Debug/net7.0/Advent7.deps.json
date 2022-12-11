@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Advent7/1.0.0": {
+        "dependencies": {
+          "Advent2": "1.0.0"
+        },
+        "runtime": {
+          "Advent7.dll": {}
+        }
+      },
+      "Advent2/1.0.0": {
+        "runtime": {
+          "Advent2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advent7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Advent2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

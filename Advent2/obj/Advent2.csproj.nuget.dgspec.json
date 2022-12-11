@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\Advent2.csproj": {}
+    "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj": {}
   },
   "projects": {
-    "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\Advent2.csproj": {
+    "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\Advent2.csproj",
+        "projectUniqueName": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj",
         "projectName": "Advent2",
-        "projectPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\Advent2.csproj",
-        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\obj\\",
+        "projectPath": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj",
+        "packagesPath": "/home/angelsz/.nuget/packages/",
+        "outputPath": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/angelsz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +48,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.0, 7.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

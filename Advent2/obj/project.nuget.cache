@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lokereO1td+y8141ztwxWJYj1PoB8IgXS2aY5DgxC9LLtcEhzgF8CI1D21zDrfIyHBOPVrS9lafim7pqmTYVBg==",
+  "dgSpecHash": "cb8Z1Nu5GA12BD1g7B8ewhYByV1PnI6ACZvnW+GJQygdFjBcyztxmTKodmUarf5B+awTXCrkNV/1K3HLqreIJQ==",
   "success": true,
-  "projectFilePath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent2\\Advent2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj",
+  "expectedPackageFiles": [
+    "/home/angelsz/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
