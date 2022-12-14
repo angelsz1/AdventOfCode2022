@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4rw+jOlXLXSWcx2KSxbia7NclAxJ6hrh6NLGulGdP9lXsYJulemNzYKHB0YUJ6RTp+g/vpU4AkaKvj7km5jeYw==",
+  "success": true,
+  "projectFilePath": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent8/Advent8.csproj",
+  "expectedPackageFiles": [
+    "/home/angelsz/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
