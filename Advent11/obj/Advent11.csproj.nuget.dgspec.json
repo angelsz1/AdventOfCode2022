@@ -1,20 +1,83 @@
 {
   "format": 1,
   "restore": {
-    "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent11\\Advent11.csproj": {}
+    "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent11/Advent11.csproj": {}
   },
   "projects": {
-    "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent11\\Advent11.csproj": {
+    "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent11/Advent11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent11\\Advent11.csproj",
+        "projectUniqueName": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent11/Advent11.csproj",
         "projectName": "Advent11",
-        "projectPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent11\\Advent11.csproj",
-        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "D:\\coding stuff\\c#\\primerProyectoCS\\primerProyectoCS\\Advent11\\obj\\",
+        "projectPath": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent11/Advent11.csproj",
+        "packagesPath": "/home/angelsz/.nuget/packages/",
+        "outputPath": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent11/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/angelsz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj": {
+                "projectPath": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.0, 7.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj",
+        "projectName": "Advent2",
+        "projectPath": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/Advent2.csproj",
+        "packagesPath": "/home/angelsz/.nuget/packages/",
+        "outputPath": "/home/angelsz/coding stuff/c#/primerProyectoCS/primerProyectoCS/Advent2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/angelsz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +111,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.0, 7.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
